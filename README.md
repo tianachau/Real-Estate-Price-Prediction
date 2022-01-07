@@ -1,6 +1,8 @@
 # Real Estate Price Prediction
 
-Project description: Bengaluru House price data. My goal is to clean data and then build predict model based on linear regression algorithm.
+Project description: Bengaluru House price data. 
+
+My goal is to clean data and then build predict model based on linear regression algorithm.
 
 Skills needed to compelete the jobs: Numpy, pandas, matplotlib, sklearn
 1. Numpy and Pandas for data cleaning: https://github.com/tianachau/Real_Estate_Price_Prediction/blob/main/Real%20Estate%20Price%20Prediction%20-%20Data%20cleaning.ipynb
